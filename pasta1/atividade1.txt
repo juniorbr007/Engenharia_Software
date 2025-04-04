@@ -1,2 +1,1 @@
-Este é o conteúdo da atividade1 na branch1
 Agora este arquivo está na branch3
